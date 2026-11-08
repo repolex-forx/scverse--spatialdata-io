@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "spatialdata-io",
+  "versions": [
+    {
+      "commit": "95486860987c59ab535cd52bb293e4d7fe99e04e",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:27:57.290256+00:00"
+    }
+  ]
+}
